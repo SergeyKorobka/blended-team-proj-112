@@ -1,11 +1,5 @@
-.title {
+.title-2 {
   font-size: 40px;
-  background-color: teal;
+  background-color: tomato;
   color: #fff;
-}
-
-.text {
-  color: purple;
-  background-image: url(/img/vite-logo.png);
-  background-size: contain;
 }
