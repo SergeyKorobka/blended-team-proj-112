@@ -1,0 +1,11 @@
+.title {
+  font-size: 40px;
+  background-color: teal;
+  color: #fff;
+}
+
+.text {
+  color: purple;
+  background-image: url(/img/vite-logo.png);
+  background-size: contain;
+}
